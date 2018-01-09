@@ -119,3 +119,12 @@
 .photos {
     margin-bottom: 15px;
 }
+
+body { 
+  padding-top: 50px;
+}
+
+.navbar-fixed-top {
+  background-color: #cccccc; /* Fallback color */
+  background-color: rgba(0,0,0,0.5);
+}
